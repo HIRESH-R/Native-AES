@@ -5,8 +5,15 @@
 
 ```git clone https://github.com//HIRESH-R/Native-AES```
 # SETUP
+```npm i sangamcipher```
+**(OR)**
+```npm install sangamcipher```
+<br /><br /><br /><br />
+```yarn i sangamcipher```
+**(OR)**
+```yarn install sangamcipher```
 
-`yarn `
+
 
 # RUN
 `yarn dev`
@@ -15,7 +22,7 @@
 run branch b1 ,main ,finalhost
 
 <p align="center">
- <img width="600px" src="/assets/g.png align="center" alt="GitHub Readme Stats" />
+ <img width="600px" src="https://github.com/HIRESH-R/Native-AES/assets/147747730/c70a5025-85f0-4980-bc6f-0e6b69be4dbf" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">REGULATORY BOARD PANEL </h2>
  <p align="center">AN Native encyrption format alternative for SHA AES which is developed by US ARMY in English Competing People Republic of CHINA 中国; pinyin: Zhōngguó 's Cryptography standard called SM9 we made this using
    south indian language called tamil 
